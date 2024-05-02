@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreamSoda", "CreamSoda\CreamSoda.csproj", "{18DD5C84-F8F4-4EBA-B2B5-5EA31D57C162}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreamSoda8", "CreamSoda8\CreamSoda8.csproj", "{E1679984-643E-4163-90B6-32C1622764E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		AppStore|x86 = AppStore|x86
@@ -18,6 +20,12 @@ Global
 		{18DD5C84-F8F4-4EBA-B2B5-5EA31D57C162}.Debug|x86.Build.0 = Debug|x86
 		{18DD5C84-F8F4-4EBA-B2B5-5EA31D57C162}.Release|x86.ActiveCfg = Release|x86
 		{18DD5C84-F8F4-4EBA-B2B5-5EA31D57C162}.Release|x86.Build.0 = Release|x86
+		{E1679984-643E-4163-90B6-32C1622764E1}.AppStore|x86.ActiveCfg = Debug|Any CPU
+		{E1679984-643E-4163-90B6-32C1622764E1}.AppStore|x86.Build.0 = Debug|Any CPU
+		{E1679984-643E-4163-90B6-32C1622764E1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E1679984-643E-4163-90B6-32C1622764E1}.Debug|x86.Build.0 = Debug|Any CPU
+		{E1679984-643E-4163-90B6-32C1622764E1}.Release|x86.ActiveCfg = Release|Any CPU
+		{E1679984-643E-4163-90B6-32C1622764E1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
